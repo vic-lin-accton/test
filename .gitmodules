@@ -3,4 +3,4 @@
 	url = https://github.com/vic-lin-accton/test2
 [submodule "test3"]
 	path = test3
-	url = https://github.com/vic-lin-accton/test2.git
+	url = https://github.com/vic-lin-accton/test2
